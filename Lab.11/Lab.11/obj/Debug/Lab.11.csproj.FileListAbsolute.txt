@@ -1,0 +1,10 @@
+E:\Kitsunya\Bursa\LMV\Lab.11\Lab.11\bin\Debug\Lab.11.exe.config
+E:\Kitsunya\Bursa\LMV\Lab.11\Lab.11\bin\Debug\Lab.11.exe
+E:\Kitsunya\Bursa\LMV\Lab.11\Lab.11\bin\Debug\Lab.11.pdb
+E:\Kitsunya\Bursa\LMV\Lab.11\Lab.11\obj\Debug\Lab.11.csproj.AssemblyReference.cache
+E:\Kitsunya\Bursa\LMV\Lab.11\Lab.11\obj\Debug\Lab._11.Properties.Resources.resources
+E:\Kitsunya\Bursa\LMV\Lab.11\Lab.11\obj\Debug\Lab.11.csproj.GenerateResource.cache
+E:\Kitsunya\Bursa\LMV\Lab.11\Lab.11\obj\Debug\Lab.11.csproj.CoreCompileInputs.cache
+E:\Kitsunya\Bursa\LMV\Lab.11\Lab.11\obj\Debug\Lab.11.exe
+E:\Kitsunya\Bursa\LMV\Lab.11\Lab.11\obj\Debug\Lab.11.pdb
+E:\Kitsunya\Bursa\LMV\Lab.11\Lab.11\obj\Debug\Lab._11.Kitsune.resources
